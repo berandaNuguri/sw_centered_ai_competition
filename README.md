@@ -1,4 +1,4 @@
-# Description
+# Summary
 
 > [DACON] SW Centered AI Competetion </br>
 > Solution of [한밭대학교] AIM. Lab. team </br>
