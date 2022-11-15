@@ -1,2 +1,3 @@
-# SW_Centered_AI_Competition
-Solution of SW Centered AI Competition
+# [한밭대학교] AIM. Lab. Solution
+
+### Model source : https://github.com/clovaai/deep-text-recognition-benchmark
