@@ -9,11 +9,11 @@ Private Score : 93.343 </br>
 
 
 ## Image_Crop
-some python files to make crop images, target file. </br>
+Some python files to make crop images, target file. </br>
 </br>
 **create_valid_target.py** : Create target.txt file to make LMDB</br>
 
-**image_crop.py** : Crop images to make LMDB</br>
+**image_crop.py** : Create crop images to make LMDB</br>
 </br>
 
 ## deep-text-recognition-benchmark
