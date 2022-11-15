@@ -9,11 +9,11 @@ Private Score : 93.343 </br>
 
 
 ## Image_Crop
-**create_valid_target.py**
-Create target.txt file to make LMDB
+some python files to make crop images, target file. </br>
+</br>
+**create_valid_target.py** : Create target.txt file to make LMDB</br>
 
-**image_crop.py**
-Crop images to make LMDB</br>
+**image_crop.py** : Crop images to make LMDB</br>
 </br>
 
 ## deep-text-recognition-benchmark
@@ -24,13 +24,14 @@ And i changed load model(39\~47 line), print and write prediction(102\~105 line)
 ## experiment_setting
 Literally the environments i used for train & predict. </br>
 </br>
-OS.txt : Settings such as GPU, CUDA...</br>
-requirements.txt : these are package settings</br>
-torch_requirements.txt : these are torch settings</br>
+**OS.txt** : Settings such as GPU, CUDA...</br>
+**requirements.txt** : these are package settings</br>
+**torch_requirements.txt** : these are torch settings</br>
 </br>
 
 ## [HNU]AIM_Lab_Reproduce.pdf
 Explain how to reproduce my competition solution. </br>
+</br>
 language : Korean</br>
 </br>
 
