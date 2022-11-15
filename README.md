@@ -24,8 +24,8 @@ And i changed load model(39\~47 line), print and write prediction(102\~105 line)
 ## experiment_setting
 Literally the environments i used for train & predict. </br>
 </br>
-OS.txt : Settings such as GPU, CUDA...
-requirements.txt : these are package settings
+OS.txt : Settings such as GPU, CUDA...</br>
+requirements.txt : these are package settings</br>
 torch_requirements.txt : these are torch settings</br>
 </br>
 
